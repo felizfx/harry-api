@@ -12,21 +12,21 @@
             "name": "Sonserina",
             "fundador": "Salazar Slytherin",
             "animal": "Cobra",
-            "cores": ["294F32", "B0AAB6"]
+            "colors": ["294F32", "B0AAB6"]
         },
         {
             "id": 2,
             "name": "Corvinal",
             "fundador": "Rowena Ravenclaw",
             "animal": "Águia",
-            "cores": ["193559", "CF764D"]
+            "colors": ["193559", "CF764D"]
         },
         {
             "id": 3,
             "name": "Lufa-Lufa",
             "fundador": "Helga Hufflepuff",
             "animal": "Texugo",
-            "cores": ["D8A618", "1F1F1F"]
+            "colors": ["D8A618", "1F1F1F"]
         }
     ]
 }
