@@ -2,7 +2,7 @@
     "houses": [
         {
             "id": 0,
-            "name": "grifinória",
+            "name": "Grifinória",
             "founder": "Godric Gryffindor",
             "animal": "Leão",
             "colors": ["#7D0808", "#DA9C35"]
