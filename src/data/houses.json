@@ -12,7 +12,7 @@
             "id": 1,
             "name": "Sonserina",
             "description": "Quem pertence à casa Sonserina é ambicioso, orgulhoso e astuto.", 
-            "fundador": "Salazar Slytherin",
+            "founder": "Salazar Slytherin",
             "animal": "Cobra",
             "colors": ["294F32", "B0AAB6"]
         },
@@ -20,7 +20,7 @@
             "id": 2,
             "name": "Corvinal",
             "description": "Quem pertence à casa Corvinal é inteligente, criativo e perspicaz.", 
-            "fundador": "Rowena Ravenclaw",
+            "founder": "Rowena Ravenclaw",
             "animal": "Águia",
             "colors": ["193559", "CF764D"]
         },
@@ -28,7 +28,7 @@
             "id": 3,
             "name": "Lufa-Lufa",
             "description": "Quem pertence à casa Lufa-Lufa é trabalhador, paciente e justo.", 
-            "fundador": "Helga Hufflepuff",
+            "founder": "Helga Hufflepuff",
             "animal": "Texugo",
             "colors": ["D8A618", "1F1F1F"]
         }
