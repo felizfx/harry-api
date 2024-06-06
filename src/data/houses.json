@@ -6,7 +6,6 @@
             "description": "Quem pertence à casa Grifinória é corajoso, determinado e leal.", 
             "founder": "Godric Gryffindor",
             "animal": "Leão",
-            "img": "https://static.wikia.nocookie.net/harrypotter/images/0/06/Hufflepuff_ClearBG.png/revision/latest?cb=20200612012838&path-prefix=pt-br",
             "colors": ["7D0808", "DA9C35"]
         },
         {
@@ -15,7 +14,6 @@
             "description": "Quem pertence à casa Sonserina é ambicioso, orgulhoso e astuto.", 
             "founder": "Salazar Slytherin",
             "animal": "Cobra",
-            "img": "https://static.wikia.nocookie.net/harrypotter/images/0/06/Hufflepuff_ClearBG.png/revision/latest?cb=20200612012838&path-prefix=pt-br",
             "colors": ["294F32", "B0AAB6"]
         },
         {
@@ -24,7 +22,6 @@
             "description": "Quem pertence à casa Corvinal é inteligente, criativo e perspicaz.", 
             "founder": "Rowena Ravenclaw",
             "animal": "Águia",
-            "img": "https://static.wikia.nocookie.net/harrypotter/images/0/06/Hufflepuff_ClearBG.png/revision/latest?cb=20200612012838&path-prefix=pt-br",
             "colors": ["193559", "CF764D"]
         },
         {
@@ -33,7 +30,6 @@
             "description": "Quem pertence à casa Lufa-Lufa é trabalhador, paciente e justo.", 
             "founder": "Helga Hufflepuff",
             "animal": "Texugo",
-            "img": "https://static.wikia.nocookie.net/harrypotter/images/0/06/Hufflepuff_ClearBG.png/revision/latest?cb=20200612012838&path-prefix=pt-br",
             "colors": ["D8A618", "1F1F1F"]
         }
     ]
